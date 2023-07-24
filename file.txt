@@ -1,0 +1,1 @@
+SSD has 8732 bounding boxes which is more than that of YOLO.
